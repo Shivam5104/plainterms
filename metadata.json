@@ -1,0 +1,6 @@
+{
+  "name": "PlainTerms",
+  "description": "Interactive fine-print and clause workbench built for the Silicon Valley Buildathon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
